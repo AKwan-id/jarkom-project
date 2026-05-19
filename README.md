@@ -21,8 +21,8 @@ Dokumentasi difokuskan pada tugas yang telah dikerjakan, yaitu konfigurasi topol
 ```text
 .
 ├── README.md
-├── A18.2025.00191_Ahmad_Kurniawan_Praktik1_JarKom.pkt
-└── A18.2025.00191_Ahmad_Kurniawan_Praktik2_3Network_JarKom.pkt
+├── P1 JarKom.pkt
+└── P2 JarKom.pkt
 ```
 
 ---
@@ -67,7 +67,7 @@ Alamat network ditentukan berdasarkan instruksi tugas menggunakan 5 digit terakh
 ## 📄 File
 
 ```text
-A18.2025.00191_Ahmad_Kurniawan_Praktik1_JarKom.pkt
+P1 JarKom.pkt
 ```
 
 ## 🧪 Pengujian
@@ -154,7 +154,7 @@ On
 ## 📄 File
 
 ```text
-A18.2025.00191_Ahmad_Kurniawan_Praktik2_3Network_JarKom.pkt
+P2 JarKom.pkt
 ```
 
 ## 🧪 Pengujian
